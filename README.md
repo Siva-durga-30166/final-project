@@ -13,3 +13,4 @@ This repository contains a Bash script (`simple-interest.sh`) to calculate simpl
 Run the script using:
 ```bash
 bash simple-interest.sh
+Updated README for feature-update branch.
